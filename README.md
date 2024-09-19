@@ -34,7 +34,7 @@
 
 ## 📷 Примеры работ
 
-![Пример работы 1](https://via.placeholder.com/400x300?text=Tattoo+Studio+Website)  
+![Пример работы 1](https://github.com/daerhtt/my-profile/blob/main/image_2024-09-19_14-43-02.png)  
 _Сайт для тату-студии_
 
 ![Пример работы 2](https://via.placeholder.com/400x300?text=Another+Project)  
